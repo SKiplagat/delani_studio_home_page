@@ -96,3 +96,10 @@
     font-size: 30px;
  }
 
+ imagehover.hover {
+    opacity: 0.3;
+ }
+
+ .contact_us {
+    text-align: center;
+ }
