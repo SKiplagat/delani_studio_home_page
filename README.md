@@ -1,8 +1,6 @@
-### Title:
-DELANI STUDIOS
+### Title: DELANI STUDIOS
 
-#### Author:
-[SKiplagat] (https://github.com/SKiplagat)
+#### Author: [SKiplagat] (https://github.com/SKiplagat)
 
 #### Description:
 This project is a web application for delani studio  built to practice concepts learnt including JQuery, bootstrap, javascript and working with API's.
