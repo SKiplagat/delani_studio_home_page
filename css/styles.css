@@ -102,4 +102,42 @@
 
  .contact_us {
     text-align: center;
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    color: white;
+
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
  }
+
+ .contact_form {
+    text-align: center;
+ }
+
+ .contact-form {
+    text-align: center;
+ }
+
+ .myForm {
+    text-align: center;
+    margin-left: 24%;
+    margin-right: 24%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    resize: vertical;
+    ;
+  
+  }
+
+  .text_input {
+    text-align: center;
+    width: auto;
+    float: center;
+    resize: vertical;
+  }
+  
+  .porttext{
+    display: none;
+  }
+   
