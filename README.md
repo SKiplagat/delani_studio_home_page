@@ -22,7 +22,7 @@ https://SKiplagat.github.io/delani_studio_home_page/
 * Markdown
 
 #### Contact Information
-If you need help using this Akan Name Generator, or if you have any questions or concerns, please contact the creator at [simeon.kiplagat@student.moringaschool.com]. The creator is happy to provide assistance and support to users of this app
+If you have any question or contributions, please email me at [simeon.kiplagat@student.moringaschool.com]
 
 #### License
 MIT License
