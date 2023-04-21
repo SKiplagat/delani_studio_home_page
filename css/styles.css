@@ -71,4 +71,28 @@
     text-align: center;
    }
 
+   .whatWeDo1 {
+    display: none;
+   }
+   .whatWeDo2 {
+    display: none;
+   }
+   .whatWeDo3 {
+    display: none;
+   }
+
+   .overlay {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    border: 3px solid white;
+    display: none;
+    font-size: 20px;
+    padding: 20px;
+    font-weight: bold;
+    color: weight;
+}
+ h3 {
+    font-size: 30px;
+ }
 
