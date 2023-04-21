@@ -79,3 +79,18 @@ $(document).ready(function () {
     });
     event.preventDefault();
 });
+
+
+$("form").submit(function() {
+    event.preventDefault();
+    var name = document.getElementById('name')
+    var email = document.getElementById('email')
+    var send = "Your Message is submitted"
+    if (name.value === '' || name.value == null) {
+      alert("Fill the form");
+    } else {
+      alert(send);
+    }
+
+
+  });
