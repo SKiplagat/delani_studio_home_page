@@ -6,7 +6,7 @@
 This project is a web application for delani studio  built to practice concepts learnt including JQuery, bootstrap, javascript and working with API's.
 
 #### Live page
-https://SKiplagat.github.io/delani_studio_home_page/
+https://skiplagat.github.io/delani_studio_home_page/
 #### Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 * git clone https://github.com/SKiplagat/delani_studio_home_page
